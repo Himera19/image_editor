@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/himera19/StudioProjects/image_editor/android/app/.cxx/Debug/106f6o44/x86_64",
+  "command": "/Users/himera19/Library/Android/sdK/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/himera19/Library/Android/sdK/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dfilters_EXPORTS -I/Users/himera19/StudioProjects/image_editor/android/app/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-limit-debug-info  -fPIC -o CMakeFiles/filters.dir/Users/himera19/StudioProjects/image_editor/open_cv/image_editor.cpp.o -c /Users/himera19/StudioProjects/image_editor/open_cv/image_editor.cpp",
+  "file": "/Users/himera19/StudioProjects/image_editor/open_cv/image_editor.cpp"
+}
+]

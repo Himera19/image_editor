@@ -1,0 +1,5 @@
+# ninja log v5
+6	2710	7661151620428651	CMakeFiles/my_functions.dir/D_/Projelerim/Flutter_Projelerim/image_editor/open_cv/image_editor.cpp.o	f7d9619c63ad1d8
+2711	3680	7661151630204426	D:/Projelerim/Flutter_Projelerim/image_editor/build/app/intermediates/cxx/Debug/1h1b1146/obj/armeabi-v7a/libmy_functions.so	1e02f369a6fd60d8
+0	2537	7661157072183377	CMakeFiles/filters.dir/D_/Projelerim/Flutter_Projelerim/image_editor/open_cv/image_editor.cpp.o	47ab909846bf1455
+2538	3681	7661157083698378	D:/Projelerim/Flutter_Projelerim/image_editor/build/app/intermediates/cxx/Debug/1h1b1146/obj/armeabi-v7a/libfilters.so	9173d7d127cfcc78

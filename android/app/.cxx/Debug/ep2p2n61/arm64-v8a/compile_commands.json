@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Projelerim/Flutter_Projelerim/image_editor/android/app/.cxx/Debug/ep2p2n61/arm64-v8a",
+  "command": "C:\\Users\\Casper\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android21 --sysroot=C:/Users/Casper/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dfilters_EXPORTS -ID:/Projelerim/Flutter_Projelerim/image_editor/android/app/../../include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -fno-limit-debug-info  -fPIC -o CMakeFiles\\filters.dir\\D_\\Projelerim\\Flutter_Projelerim\\image_editor\\open_cv\\image_editor.cpp.o -c D:\\Projelerim\\Flutter_Projelerim\\image_editor\\open_cv\\image_editor.cpp",
+  "file": "D:\\Projelerim\\Flutter_Projelerim\\image_editor\\open_cv\\image_editor.cpp"
+}
+]

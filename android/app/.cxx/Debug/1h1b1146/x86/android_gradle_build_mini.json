@@ -1,0 +1,29 @@
+{
+  "buildFiles": [
+    "D:\\Projelerim\\Flutter_Projelerim\\image_editor\\android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Casper\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\Projelerim\\Flutter_Projelerim\\image_editor\\android\\app\\.cxx\\Debug\\1h1b1146\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Casper\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\Projelerim\\Flutter_Projelerim\\image_editor\\android\\app\\.cxx\\Debug\\1h1b1146\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "filters::@6890427a1f51a3e7e1df": {
+      "artifactName": "filters",
+      "abi": "x86",
+      "output": "D:\\Projelerim\\Flutter_Projelerim\\image_editor\\build\\app\\intermediates\\cxx\\Debug\\1h1b1146\\obj\\x86\\libfilters.so",
+      "runtimeFiles": [
+        "D:\\Projelerim\\Flutter_Projelerim\\image_editor\\android\\app\\src\\main\\jniLibs\\x86\\libopencv_java4.so"
+      ]
+    }
+  }
+}

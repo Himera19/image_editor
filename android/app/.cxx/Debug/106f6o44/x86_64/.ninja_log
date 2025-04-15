@@ -1,0 +1,9 @@
+# ninja log v5
+0	906	1744626844506616297	CMakeFiles/filters.dir/Users/himera19/StudioProjects/image_editor/open_cv/image_editor.cpp.o	ca147f07b7ad9b23
+907	975	1744626844574128103	/Users/himera19/StudioProjects/image_editor/build/app/intermediates/cxx/Debug/106f6o44/obj/x86_64/libfilters.so	58071e9000baf14b
+2	895	1744629660408779192	CMakeFiles/filters.dir/Users/himera19/StudioProjects/image_editor/open_cv/image_editor.cpp.o	ca147f07b7ad9b23
+895	962	1744629660474605526	/Users/himera19/StudioProjects/image_editor/build/app/intermediates/cxx/Debug/106f6o44/obj/x86_64/libfilters.so	58071e9000baf14b
+2	897	1744629794064164997	CMakeFiles/filters.dir/Users/himera19/StudioProjects/image_editor/open_cv/image_editor.cpp.o	ca147f07b7ad9b23
+897	964	1744629794129939582	/Users/himera19/StudioProjects/image_editor/build/app/intermediates/cxx/Debug/106f6o44/obj/x86_64/libfilters.so	58071e9000baf14b
+1	900	1744630048581129317	CMakeFiles/filters.dir/Users/himera19/StudioProjects/image_editor/open_cv/image_editor.cpp.o	ca147f07b7ad9b23
+900	967	1744630048647111023	/Users/himera19/StudioProjects/image_editor/build/app/intermediates/cxx/Debug/106f6o44/obj/x86_64/libfilters.so	58071e9000baf14b
