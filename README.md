@@ -59,6 +59,7 @@ You must do just these steps:
 5. Start the Flask server:
    `python app.py`
 6. Now your local server started. You can use Python filters.
+- NOTE: Don’t forget to update the following URL in your Flutter project: `lib/services/phyton_library_service.dart`. Replace: `http://YOUR_PC_IP:PORT/cartoon` with your actual IP address and port. You can find a guide inside this file explaining how to make this change.
 
 ## License  
 This project is licensed under the MIT License.
