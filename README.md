@@ -1,5 +1,5 @@
-# Image Filtering  
-*An Image Filtering Application Made with Flutter*
+# Image Editor  
+*An Image Editor Application Made with Flutter*
 
 ## GIF Demo  
 <img src="https://github.com/Himera19/image_editor/blob/main/app_preview.gif" height="450">
