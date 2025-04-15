@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13B793012DAE388800D75B0B /* opencv2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13B793002DAE388800D75B0B /* opencv2.framework */; };
 		13B793072DAE399D00D75B0B /* image_editor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13B793052DAE399D00D75B0B /* image_editor.cpp */; };
 		1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */ = {isa = PBXBuildFile; fileRef = 1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */; };
 		331C808B294A63AB00263BE5 /* RunnerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 331C807B294A618700263BE5 /* RunnerTests.swift */; };
@@ -44,7 +43,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		13B793002DAE388800D75B0B /* opencv2.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = opencv2.framework; sourceTree = "<group>"; };
 		13B793052DAE399D00D75B0B /* image_editor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = image_editor.cpp; sourceTree = "<group>"; };
 		1498D2321E8E86230040F4C2 /* GeneratedPluginRegistrant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GeneratedPluginRegistrant.h; sourceTree = "<group>"; };
 		1498D2331E8E89220040F4C2 /* GeneratedPluginRegistrant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeneratedPluginRegistrant.m; sourceTree = "<group>"; };
@@ -84,7 +82,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13B793012DAE388800D75B0B /* opencv2.framework in Frameworks */,
 				47FE6926C5630A9F9A958A4C /* Pods_Runner.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,7 +139,6 @@
 				331C8082294A63A400263BE5 /* RunnerTests */,
 				127093219AF83BCDB4101616 /* Pods */,
 				C7E8C0BA97882556A01F8647 /* Frameworks */,
-				13B793002DAE388800D75B0B /* opencv2.framework */,
 				13B793062DAE399D00D75B0B /* open_cv */,
 			);
 			sourceTree = "<group>";
